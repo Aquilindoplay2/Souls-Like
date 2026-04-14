@@ -137,3 +137,10 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# GameMaker
+*.yyz
+*.yyp.bak
+*.resource_order
+/build/
+/output/
