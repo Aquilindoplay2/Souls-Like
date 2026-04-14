@@ -3,12 +3,13 @@
   "%Name":"tl_fundo",
   "autoTileSets":[],
   "macroPageTiles":{
-    "SerialiseHeight":0,
-    "SerialiseWidth":0,
-    "TileSerialiseData":[],
+    "SerialiseHeight":16,
+    "SerialiseWidth":12,
+    "TileCompressedData":[-177,0,3,404,405,406,-9,0,3,434,435,436,],
+    "TileDataFormat":1,
   },
   "name":"tl_fundo",
-  "out_columns":0,
+  "out_columns":29,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
@@ -17,7 +18,10 @@
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
-  "spriteId":null,
+  "spriteId":{
+    "name":"Sprite2",
+    "path":"sprites/Sprite2/Sprite2.yy",
+  },
   "spriteNoExport":false,
   "textureGroupId":{
     "name":"Default",
@@ -31,5 +35,5 @@
   "tileWidth":16,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":0,
+  "tile_count":870,
 }
