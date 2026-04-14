@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Jimmy",
-    "path":"sprites/spr_Jimmy/spr_Jimmy.yy",
+    "name":"spr_Jimmywknmdkwasnmdk",
+    "path":"sprites/spr_Jimmywknmdkwasnmdk/spr_Jimmywknmdkwasnmdk.yy",
   },
   "spriteMaskId":null,
   "visible":true,

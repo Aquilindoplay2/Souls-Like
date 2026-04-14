@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"Sprite2",
-    "path":"sprites/Sprite2/Sprite2.yy",
+    "name":"spr_tile_fundo",
+    "path":"sprites/spr_tile_fundo/spr_tile_fundo.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
