@@ -37,7 +37,7 @@
   "resources":[
     {"id":{"name":"Obj_Jimmy","path":"objects/Obj_Jimmy/Obj_Jimmy.yy",},},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"rm_home","path":"rooms/rm_home/rm_home.yy",},},
     {"id":{"name":"spr_Jimmy","path":"sprites/spr_Jimmy/spr_Jimmy.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
@@ -46,7 +46,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_home","path":"rooms/rm_home/rm_home.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
